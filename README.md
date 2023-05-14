@@ -139,6 +139,42 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=flat-square&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?&style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
       <img src="https://img.shields.io/badge/T--SQL-%23CC2927.svg?&style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PL--SQL-%23F80000.svg?&style=flat-square&logo=oracle&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white"/>
+    </td>
+  </tr>
+    <tr>
+    <th>Integrations</th>
+    <td>
+      <img src="https://img.shields.io/badge/REST-%236DB33F.svg?&style=flat-square&logo=rest&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SOAP-%23E9A829.svg?&style=flat-square&logo=soap&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JSON-%23FF7F50.svg?&style=flat-square&logo=json&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SSIS-%23FFA500.svg?&style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OData-%2300B4F0.svg?&style=flat-square&logo=odata&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Azure_Logic_Apps-%230072C6.svg?&style=flat-square&logo=microsoftazure&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <th>Libraries</th>
+    <td valign="middle">
+      <div float="left">
+        <img src="https://img.shields.io/badge/Pandas-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Numpy-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ScikitLearn-%23F7931E.svg?&style=flat-square&logo=scikitlearn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=flat-square&logo=keras&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tensorflow-%23FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scipy-%238CAAE6.svg?&style=flat-square&logo=scipy&logoColor=white"/>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <th>Reporting</th>
+    <td valign="middle">
+      <div float="left">
+        <img src="https://img.shields.io/badge/SSRS-%23F37626.svg?&style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?&style=flat-square&logo=Power%20BI&logoColor=white"/>
+      </div>
     </td>
   </tr>
 </table>
