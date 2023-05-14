@@ -3,6 +3,8 @@
 <!--
 **aniruddhochat/aniruddhochat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
+
 Aniruddho Chatterjee
 About Me
 I am a graduate student pursuing a Master of Science in Computer Science at Indiana University, Bloomington, with a focus on software development and cloud computing. My technical skills include Object-Oriented Programming, Software Development, Databases and Data Structures, and Algorithms.
@@ -20,8 +22,6 @@ With my corporate experience, I aim to bring a comprehensive understanding to so
 
 Contact
 You can reach me at [email protected].
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
