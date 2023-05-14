@@ -115,9 +115,6 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/X%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="X++">
       <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" alt="Java">
       <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
       <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C">
       <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
     </td>
@@ -168,6 +165,42 @@ Here are some ideas to get you started:
       </div>
     </td>
   </tr>
+  
+  <tr>
+    <th>Web Development</th>
+    <td valign="middle">
+      <div float="left">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node-%23339933.svg?&style=flat-square&logo=nodedotjs&logoColor=white"/>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <th>Visualization</th>
+    <td valign="middle">
+      <div float="left">
+        <img src="https://img.shields.io/badge/matplotlib-%23F37626.svg?&style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Seaborn-%238BC34A.svg?&style=flat-square&logo=seaborn&logoColor=white"/>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <th>IDE Editors</th>
+    <td valign="middle">
+      <div float="left">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=PyCharm&logoColor=black&color=black&labelColor=green"/>
+        <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+      </div>
+    </td>
+  </tr>
+  
   <tr>
     <th>Reporting</th>
     <td valign="middle">
