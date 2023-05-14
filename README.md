@@ -85,7 +85,7 @@ Here are some ideas to get you started:
     <td valign="middle">
       <div float="left">
         <img src="https://img.shields.io/badge/matplotlib-%23F37626.svg?&style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Seaborn-Data%20Visualization-blue?&style=flat-square&logo=seaborn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Seaborn-%238BC34A.svg?&style=flat-square&logo=seaborn&logoColor=white"/>
       </div>
     </td>
   </tr>
