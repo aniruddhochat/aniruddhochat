@@ -191,12 +191,12 @@ Here are some ideas to get you started:
     <th>IDE Editors</th>
     <td valign="middle">
       <div float="left">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=PyCharm&logoColor=black&color=black&labelColor=green"/>
-        <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyCharm-143?style=flat-square&logo=PyCharm&logoColor=black&color=black&labelColor=green"/>
+        <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=flat-square&logo=sublime-text&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
       </div>
     </td>
   </tr>
