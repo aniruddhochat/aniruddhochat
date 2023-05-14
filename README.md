@@ -112,7 +112,7 @@ Here are some ideas to get you started:
   <tr>
     <th>Programming Languages</th>
     <td>
-      <img src="https://img.shields.io/badge/X%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="X++">
+      <img src="https://img.shields.io/badge/X%2B%2B-%2300599C.svg?style=flat-square&logo=x-plus-plus%2B%2B&logoColor=white" alt="X++">
       <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" alt="Java">
       <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C">
@@ -182,8 +182,8 @@ Here are some ideas to get you started:
     <th>Visualization</th>
     <td valign="middle">
       <div float="left">
-        <img src="https://img.shields.io/badge/matplotlib-%23F37626.svg?&style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Seaborn-%238BC34A.svg?&style=flat-square&logo=seaborn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Matplotlib-%23F37626.svg?&style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Seaborn-%23F37626.svg?&style=flat-square&logo=python&logoColor=white"/>
       </div>
     </td>
   </tr>
@@ -191,12 +191,24 @@ Here are some ideas to get you started:
     <th>IDE Editors</th>
     <td valign="middle">
       <div float="left">
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PyCharm-143?style=flat-square&logo=PyCharm&logoColor=black&color=black&labelColor=green"/>
-        <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=flat-square&logo=sublime-text&logoColor=white"/>
         <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white"/>
         <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=Jupyter"/>
+        <img src="https://img.shields.io/badge/PyCharm-143?style=flat-square&logo=PyCharm&logoColor=black&color=black&labelColor=green"/>
+        <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=flat-square&logo=sublime-text&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spyder-3776AB?style=for-the-badge&logo=spyder-ide&logoColor=white"/>
+      </div>
+    </td>
+  </tr>
+  
+  <tr>
+    <th>Version Control</th>
+    <td valign="middle">
+      <div float="left">
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/>
+        <img alt="TFS" src="https://img.shields.io/badge/TFS-%23F6A800.svg?style=flat-square&logo=azuredevops&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Azure%20DevOps-TFVC-%2376B900.svg?style=flat-square&logo=azuredevops&logoColor=white"/>
       </div>
     </td>
   </tr>
