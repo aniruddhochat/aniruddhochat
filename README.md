@@ -106,3 +106,40 @@ Here are some ideas to get you started:
   </tr>
   
 </table>
+
+
+<table>
+  <tr>
+    <th>Programming Languages</th>
+    <td>
+      <img src="https://img.shields.io/badge/X%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="X++">
+      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C">
+      <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+    </td>
+  </tr>
+  <tr>
+    <th>Tools/Frameworks</th>
+    <td>
+      <img src="https://img.shields.io/badge/Azure%20DevOps-%230078D7.svg?style=flat-square&logo=azure-devops&logoColor=white" alt="Azure DevOps">
+      <img src="https://img.shields.io/badge/Dynamics%20365%20Finance%20%26%20Operations-%230089D6.svg?style=flat-square&logo=microsoft-dynamics&logoColor=white" alt="Dynamics 365 Finance & Operations">
+      <img src="https://img.shields.io/badge/AX%202012%20(R3%2C%20R2)-%23161616.svg?style=flat-square&logo=microsoft&logoColor=white" alt="AX 2012 (R3, R2)">
+      <img src="https://img.shields.io/badge/PowerShell-%230095D5.svg?style=flat-square&logo=PowerShell&logoColor=white" alt="PowerShell">
+    </td>
+  </tr>
+  <tr>
+    <th>Databases</th>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-%23CC2927.svg?&style=flat-square&logo=Microsoft-SQL-Server&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?&style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+      <img src="https://img.shields.io/badge/T--SQL-%23CC2927.svg?&style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+  
