@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**aniruddhochat/aniruddhochat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 Aniruddho Chatterjee
 About Me
@@ -21,7 +17,13 @@ Goals
 With my corporate experience, I aim to bring a comprehensive understanding to solve complex business problems and help the company meet required deadlines.
 
 Contact
-You can reach me at [email protected].
+You can reach me at aniruddho.chatterjee@gmail.com.
+
+<!--
+**aniruddhochat/aniruddhochat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
