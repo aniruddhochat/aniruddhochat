@@ -37,6 +37,7 @@ Here are some ideas to get you started:
   <tr>
     <th>Programming Languages</th>
     <td>
+      <img src="https://img.shields.io/badge/C%23-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C#">
       <img src="https://img.shields.io/badge/X%2B%2B-%2300599C.svg?style=flat-square&logo=x-plus-plus%2B%2B&logoColor=white" alt="X++">
       <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" alt="Java">
       <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
